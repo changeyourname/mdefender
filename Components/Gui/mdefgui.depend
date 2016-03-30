@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1398513904 source:h:\mz_av\components\gui\main.cpp
+	<windows.h>
+	<string>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	"include/config.h"
+	"res/resource.h"
+	"include/engine.hpp"
+	"src/engine.cpp"
+	"include/gui/about.hpp"
+	"src/gui/about.cpp"
+	"include/gui/scan_results.hpp"
+	"include/gui/startup_screen.hpp"
+	"src/gui/startup_screen.cpp"
+
+1398427100 h:\mz_av\components\gui\include\config.h
+
+1398413012 h:\mz_av\components\gui\res\resource.h
+	<windows.h>
+	<richedit.h>
+	<commctrl.h>
+
+1398510912 h:\mz_av\components\gui\include\engine.hpp
+	"av_logger.hpp"
+	"process_manager.hpp"
+	"file_system.hpp"
+	"ruleEngine.hpp"
+	"hashEngine.hpp"
+	"system_env.hpp"
+	"config_reader.hpp"
+
+1395770390 h:\mz_av\components\gui\include\av_logger.hpp
+	<stdio.h>
+	<vector>
+	<string>
+
+1396036854 h:\mz_av\components\gui\include\process_manager.hpp
+	<vector>
+	<windows.h>
+	<string>
+	<tlhelp32.h>
+
+1397812374 h:\mz_av\components\gui\include\file_system.hpp
+	<vector>
+	<string>
+	<windows.h>
+	"scan_object.hpp"
+	"md5.h"
+
+1397202252 h:\mz_av\components\gui\include\scan_object.hpp
+	"signature_info.hpp"
+	"file_system.hpp"
+	"scan_result_object.h"
+	<string>
+
+1395770292 h:\mz_av\components\gui\include\signature_info.hpp
+	<string>
+
+1397395772 h:\mz_av\components\gui\include\scan_result_object.h
+	<windows.h>
+	<string>
+
+1281949082 h:\mz_av\components\gui\include\md5.h
+
+1397906250 h:\mz_av\components\gui\include\ruleengine.hpp
+	"scan_object.hpp"
+	"scan_result_object.h"
+	<windows.h>
+	"yara/yara.h"
+	<string>
+	<vector>
+
+1397318676 h:\mz_av\components\gui\include\yara\yara.h
+	<stdio.h>
+	<stdint.h>
+	<setjmp.h>
+	<windows.h>
+	<pthread.h>
+
+1398510938 h:\mz_av\components\gui\include\hashengine.hpp
+	"scan_object.hpp"
+	"scan_result_object.h"
+	<windows.h>
+	<sqlite3.h>
+	<string>
+	<vector>
+
+1396765402 h:\mz_av\components\gui\include\system_env.hpp
+	<windows.h>
+	<string>
+	<direct.h>
+
+1396640486 h:\mz_av\components\gui\include\config_reader.hpp
+	<sqlite3.h>
+	<string>
+
+1398105928 h:\mz_av\components\gui\src\engine.cpp
+	<cstdlib>
+	"av_logger.cpp"
+	"filesystem.cpp"
+	"signature_info.cpp"
+	"scan_object.cpp"
+	"process_manager.cpp"
+	"ruleEngine.cpp"
+	"hashEngine.cpp"
+	"system_env.cpp"
+	"config_reader.cpp"
+	"md5.c"
+
+1396086104 h:\mz_av\components\gui\src\av_logger.cpp
+	"../src/av_logger.hpp"
+	<ctime>
+	<cstdlib>
+
+1398106060 h:\mz_av\components\gui\src\filesystem.cpp
+	<windows.h>
+	<algorithm>
+	<assert.h>
+
+1395770308 h:\mz_av\components\gui\src\signature_info.cpp
+
+1395564210 h:\mz_av\components\gui\src\scan_object.cpp
+
+1396037084 h:\mz_av\components\gui\src\process_manager.cpp
+
+1397969424 h:\mz_av\components\gui\src\ruleengine.cpp
+
+1397943104 h:\mz_av\components\gui\src\hashengine.cpp
+
+1396767714 h:\mz_av\components\gui\src\system_env.cpp
+
+1397799820 h:\mz_av\components\gui\src\config_reader.cpp
+
+1395561630 h:\mz_av\components\gui\src\md5.c
+	"md5.h"
+	<string.h>
+
+1398073970 h:\mz_av\components\gui\include\gui\about.hpp
+
+1398426920 h:\mz_av\components\gui\src\gui\about.cpp
+
+1398431624 h:\mz_av\components\gui\include\gui\scan_results.hpp
+	<windows.h>
+	<string>
+	"scan_results_resource.hpp"
+
+1398510838 h:\mz_av\components\gui\include\gui\scan_results_resource.hpp
+
+1398063032 h:\mz_av\components\gui\include\gui\startup_screen.hpp
+
+1398414544 h:\mz_av\components\gui\src\gui\startup_screen.cpp
+
+1398515296 source:h:\mz_av\components\gui\res\resource.rc
+	"resource.h"
+

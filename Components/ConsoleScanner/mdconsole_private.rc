@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "mdconsole.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,0,0,22
+PRODUCTVERSION 1,0,0,22
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", "Mthwakazi Defender,ZimCODERZ"
+			 VALUE "FileVersion", "1.0.0.0"
+			 VALUE "FileDescription", "Mthwakazi Defender Console Scanner"
+			 VALUE "InternalName", "mdconsole.exe"
+			 VALUE "LegalCopyright", "(c) 2014 Trevor Sibanda, Clifford J Mthemba"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "mdconsole.exe"
+			 VALUE "ProductName", "Mthwkazi Defender Console Scanner"
+			 VALUE "ProductVersion", "1.0"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
+

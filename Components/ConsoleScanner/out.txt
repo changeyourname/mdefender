@@ -1,0 +1,98 @@
+ Mthwakazi Defender 1.0.0.0 Console Scanner
+->
+->	by ZIMCODERZ (c) 2014 All Rights Reserved
+->	Hamba juba bazakucutha phambili
+->
+->	Scanned Files:	559354
+
+->	Starting Engine...	 done ! 
+->	Enumerating files ...  done
+->	Found 508 files in 42 sub directories. Press OK to start scan 
+
+
+->	FileSystem Scanner Running ... 
+
+	+	1 %	 1 detected 	c:\windows\system.ini
+	+	2 %	 1 detected 	c:\windows\system32\xinput9_1_0.dll
+	+	3 %	 1 detected 	c:\windows\system32\uninstaller.exe
+	+	4 %	 1 detected 	c:\windows\system32\msvcr90.dll
+	+	5 %	 1 detected 	c:\windows\system32\olepro32.dll
+	+	6 %	 1 detected 	c:\windows\system32\riched20.dll
+	+	7 %	 1 detected 	c:\windows\system32\slbcsp.dll
+	+	8 %	 1 detected 	c:\windows\system32\authz.dll
+	+	9 %	 1 detected 	c:\windows\system32\taskkill.exe
+	+	10 %	 1 detected 	c:\windows\system32\rsaenh.dll
+	+	11 %	 1 detected 	c:\windows\system32\dmsynth.dll
+	+	12 %	 1 detected 	c:\windows\system32\softpub.dll
+	+	13 %	 1 detected 	c:\windows\system32\qmgr.dll
+	+	14 %	 1 detected 	c:\windows\system32\reg.exe
+	+	15 %	 1 detected 	c:\windows\system32\clock.exe
+	+	16 %	 1 detected 	c:\windows\system32\dinput.dll
+	+	17 %	 1 detected 	c:\windows\system32\keyboard.drv
+	+	18 %	 1 detected 	c:\windows\system32\winnls.dll
+	+	19 %	 1 detected 	c:\windows\system32\d3dx10_42.dll
+	+	20 %	 1 detected 	c:\windows\system32\svrapi.dll
+	+	21 %	 1 detected 	c:\windows\system32\pstorec.dll
+	+	22 %	 1 detected 	c:\windows\system32\mciseq.dll
+	+	23 %	 1 detected 	c:\windows\system32\typelib.dll
+	+	24 %	 1 detected 	c:\windows\system32\d3dcompiler_43.dll
+	+	25 %	 1 detected 	c:\windows\system32\d3dx10_35.dll
+	+	26 %	 1 detected 	c:\windows\system32\hid.dll
+	+	27 %	 1 detected 	c:\windows\system32\setupapi.dll
+	+	28 %	 1 detected 	c:\windows\system32\atl.dll
+	+	29 %	 1 detected 	c:\windows\system32\winhttp.dll
+	+	30 %	 1 detected 	c:\windows\system32\itircl.dll
+	+	31 %	 1 detected 	c:\windows\system32\msvcp60.dll
+	+	32 %	 1 detected 	c:\windows\system32\odbccp32.dll
+	+	33 %	 1 detected 	c:\windows\system32\xpsprint.dll
+	+	34 %	 1 detected 	c:\windows\system32\avifile.dll
+	+	35 %	 1 detected 	c:\windows\system32\d3dcompiler_41.dll
+	+	36 %	 1 detected 	c:\windows\system32\msvcp71.dll
+	+	37 %	 1 detected 	c:\windows\system32\wmi.dll
+	+	38 %	 1 detected 	c:\windows\system32\d3dx10_37.dll
+	+	39 %	 1 detected 	c:\windows\system32\expand.exe
+	+	40 %	 1 detected 	c:\windows\system32\msvcp70.dll
+	+	41 %	 1 detected 	c:\windows\system32\d3dx9_29.dll
+	+	42 %	 1 detected 	c:\windows\system32\serialui.dll
+	+	43 %	 1 detected 	c:\windows\system32\d3dx9_37.dll
+	+	44 %	 1 detected 	c:\windows\system32\msvfw32.dll
+	+	45 %	 1 detected 	c:\windows\system32\activeds.dll
+	+	46 %	 1 detected 	c:\windows\system32\uxtheme.dll
+	+	47 %	 1 detected 	c:\windows\system32\d3dx10_36.dll
+	+	48 %	 1 detected 	c:\windows\system32\dssenh.dll
+	+	49 %	 1 detected 	c:\windows\system32\winsta.dll
+	+	50 %	 1 detected 	c:\windows\system32\icmp.dll
+	+	51 %	 1 detected 	c:\windows\system32\mssign32.dll
+	+	52 %	 1 detected 	c:\windows\system32\lodctr.exe
+	+	53 %	 1 detected 	c:\windows\system32\d3dcompiler_40.dll
+	+	54 %	 1 detected 	c:\windows\system32\user.exe
+	+	55 %	 1 detected 	c:\windows\system32\gdiplus.dll
+	+	56 %	 1 detected 	c:\windows\system32\imm.dll
+	+	57 %	 1 detected 	c:\windows\system32\cfgmgr32.dll
+	+	58 %	 1 detected 	c:\windows\system32\winemine.exe
+	+	59 %	 1 detected 	c:\windows\system32\winsock.dll
+	+	60 %	 1 detected 	c:\windows\system32\vcomp.dll
+	+	61 %	 1 detected 	c:\windows\system32\mshta.exe
+	+	62 %	 1 detected 	c:\windows\system32\msvcr80.dll
+	+	63 %	 1 detected 	c:\windows\system32\slc.dll
+	+	64 %	 1 detected 	c:\windows\system32\toolhelp.dll
+	+	65 %	 1 detected 	c:\windows\system32\d3dcompiler_36.dll
+	+	66 %	 1 detected 	c:\windows\system32\d3dx10_34.dll
+	+	67 %	 1 detected 	c:\windows\system32\ddrawex.dll
+	+	68 %	 1 detected 	c:\windows\system32\ktmw32.dll
+	+	69 %	 1 detected 	c:\windows\system32\win32s16.dll
+	+	70 %	 1 detected 	c:\windows\system32\d3dx9_30.dll
+	+	71 %	 1 detected 	c:\windows\system32\usp10.dll
+	+	72 %	 1 detected 	c:\windows\system32\cabinet.dll
+	+	73 %	 1 detected 	c:\windows\system32\setupx.dll
+	+	74 %	 1 detected 	c:\windows\system32\wuaueng.dll
+	+	75 %	 1 detected 	c:\windows\system32\msxml3.dll
+	+	76 %	 1 detected 	c:\windows\system32\taskmgr.exe
+	+	77 %	 1 detected 	c:\windows\system32\d3dx10_38.dll
+	+	78 %	 1 detected 	c:\windows\system32\gecko\1.4\wine_gecko\freebl3.dll
+	+	79 %	 1 detected 	c:\windows\system32\gecko\1.4\wine_gecko\mozsqlite3.dll
+	+	80 %	 1 detected 	c:\windows\system32\gecko\1.4\wine_gecko\nssdbm3.dll
+	+	81 %	 1 detected 	c:\windows\Installer\{0F625B46-95DF-45E1-8CD3-F9A95C6F8789}\TemplaterIcon64.exe
+	+	82 %	 1 detected 	c:\windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef\msvcr80.dll
+	+	83 %	 1 detected 	c:\windows\Microsoft.NET\Framework\v1.1.4322\regsvcs.exe
+	+	84 %	 1 detected 	c:\windows\Microsoft.NET\Framework\v2.0.50727\ngen.exe

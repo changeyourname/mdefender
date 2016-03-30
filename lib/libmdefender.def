@@ -1,0 +1,2 @@
+; dlltool --base-file C:\users\root\Temp/cca00069.base --output-exp mdefender.exp --dllname mdefender.dll --output-def libmdefender.def --exclude-symbol=DllMainCRTStartup@12 --def C:\users\root\Temp/cca00069.def --output-lib libmdefender.a
+EXPORTS

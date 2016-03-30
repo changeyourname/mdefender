@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+#include "../../res/resource.rc"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,0,0,37
+PRODUCTVERSION 1,0,0,37
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "300904E4"
+		 {
+			 VALUE "CompanyName", "Mthwakaz Defender"
+			 VALUE "FileVersion", ""
+			 VALUE "FileDescription", "Mthwakazi Defender Shell Scanner"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", "Trevor Sibanda , Clifford J Mthemba (c) 2014"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", "Mthwakazi Defender Shell Extension Scanner"
+			 VALUE "ProductVersion", ""
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x3009, 1252
+	 }
+}
+

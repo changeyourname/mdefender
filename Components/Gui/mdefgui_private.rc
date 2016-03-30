@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+#include "../../res/resource.rc"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,0,0,27
+PRODUCTVERSION 1,0,0,27
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "300904E4"
+		 {
+			 VALUE "CompanyName", "Mthwakazi Defender"
+			 VALUE "FileVersion", ""
+			 VALUE "FileDescription", "Mthwakazi Defender Main INterface"
+			 VALUE "InternalName", "Mthwakazi Defender"
+			 VALUE "LegalCopyright", "2014 (c) Mthwakazi Defender"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "mdefgui.exe"
+			 VALUE "ProductName", "mdefgui"
+			 VALUE "ProductVersion", "1.0.0.0 Beta"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x3009, 1252
+	 }
+}
+
