@@ -1,0 +1,11 @@
+This file contains info about the ORIGINAL developers. If you change Mthwakazi Defender, please update the cONTRIBUTORS.txt and CHANGELOG.txt files before distributing.
+
+
+Trevor Sibanda 			[trevorsibb@gmail.com]				Lead Programmer
+Clifford J Mthemba		[cliffordjmthemba@gmail.com]
+
+You can also use the same Google usernames to find us on Facebook and send us a message.
+
+Also you can send us an email to mthwakazidefender@gmail.com
+
+-T.Sibanda ((((Sometime in May 2014))))

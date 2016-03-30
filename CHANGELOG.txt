@@ -1,0 +1,14 @@
+Changes
+
+This file should be updated everytime you make a change to Mthwakazi Defender.
+Information should include changes made,date , version your fullname and an email address to contact you by . all seperated by tabs.Version Number then date in curly brackets then two new lines then Changes made. 
+Each change per line. and then one new line, then you enter your fullname and email address in square brackets.
+Append any changes to the beginning of the file such that version 1.0 is at the end of file and version 9999 will be at the top.
+
+
+1.0.0 Beta Release		{6 May 2014}
+
+First public release
+
+M-Defender Team	[mthwakazidefender@gmail.com]
+

@@ -1,0 +1,34 @@
+Greetings fellow noobz...
+
+In this document I will be helping you build MDefender
+
+All you need to do is install Codeblocks or Dev-C++ and AutoIT3 to get started
+
+ONce installed you will find a folder called Components inside of which several
+folders containing seperate components will be found there.
+
+In each folder there should be a Dev-C++ project which once opened whould provide a ready build of that component.
+
+The Dev-C++ project can also be imported into Code::Blocks using the imprt option of
+Codeblocks.
+
+All include files are in a folder named..... yes good boy, called include.. wonderful
+And all source files are in a folder called .... source.
+
+When you build a binary it is created in a folder name Release
+
+If you have linking problems, just add all libraries in the lib folder.
+
+Oh yeah by the way, the resources are found in a folder called res
+
+The source code is commented... say thank you Trevor. 
+
+I have never built this using MSVc++ so good luck with that (funny facial expression)
+
+
+I use Linux, so don't  give me MSVc++ problems OK... thank you :) ( WINE dear foo... WINE)
+
+Guys remember this is an antimalware engine... I cant start teaching people what a variable is.
+
+
+Thank you. 
